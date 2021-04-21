@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @uday2406
+- 👋 Hi, I’m Uday Kumar Gupta
 - 👀 I’m interested in Web Development (PHP)
 - 🌱 I’m currently learning Laravel
 - 💞️ I’m looking to collaborate on ...
